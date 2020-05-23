@@ -16,5 +16,3 @@ sphinx:
 # don't use submodules for documentation (readthedocs fails when using submodules)
 submodules:
   exclude: all
-  
-master_doc = 'index'
