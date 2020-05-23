@@ -43,6 +43,7 @@ exclude_patterns = []
 
 master_doc = 'index'
 
+extensions = ['recommonmark']
 
 # -- Options for HTML output -------------------------------------------------
 
