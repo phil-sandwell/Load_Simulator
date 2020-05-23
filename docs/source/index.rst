@@ -9,7 +9,8 @@ Welcome to Load_Simulator's documentation!
 .. toctree::
    :maxdepth: 3
    :caption: Contents:
-   test_page
+
+test_page
 
 
 Indices and tables
