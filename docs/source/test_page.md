@@ -2,4 +2,4 @@
 
 ## Test heading
 
-Test text 
+Test text
